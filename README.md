@@ -1,32 +1,34 @@
 # Simple-Twitch-Desktop
 
-A lightweight alternative to the official twitch desktop app that has integrated the [FrankerFaceZ](https://github.com/FrankerFaceZ/FrankerFaceZ) extension.
+Una alternativa ligera a la aplicación oficial de escritorio de Twitch que ha integrado el [FrankerFaceZ](https://github.com/FrankerFaceZ/FrankerFaceZ) extension.
 
-**This app is only meant for watching streams and does not provide integration for the game library.**
+**Esta aplicación sólo está pensada para ver streams y no ofrece integración para la biblioteca de juegos.**
 
-## Additional options
-With the `Alt` key the menu bar can be made visible at any time. There you can find options like reload the site or go forward and back.
+## Opciones adicionales
+Con la tecla `Alt` se puede hacer visible la barra de menús en cualquier momento. En ella encontrará opciones como recargar el sitio o avanzar y retroceder.
 
 ---
 
-## Development
+## Desarrollo
 
-**Before you can execute any of these commands, you must have Node.js installed!**
+**Antes de poder ejecutar cualquiera de estos comandos, debe tener instalado Node.js!**
 
-### Setup
-Run the following command in the root directory of the project to install all dependencies:
+### Configurar
+Ejecute el siguiente comando en el directorio raíz del proyecto para instalar todas las dependencias:
 ```
 npm install
 ```
 
-### Start app locally
-Run the following command in the root directory of the project to start the app locally:
+### Iniciar la aplicación localmente
+Ejecute el siguiente comando en el directorio raíz del proyecto para iniciar la aplicación localmente:
 ```
 npm start
 ```
 
-### Pack executables
-Run the following command in the root directory of the project to start the executable packaging:
+### Empaquetar ejecutables
+Ejecute el siguiente comando en el directorio raíz del proyecto para iniciar el empaquetado del ejecutable:
 ```
 npm run pack
 ```
+
+### Estoy Actualizando el Proyecto despues de 3 años que el dueño no lo Actualiza
