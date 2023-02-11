@@ -24,7 +24,7 @@ function createWindow() {
         width: 1500,
         height: 800,
         center: true,
-        title: "Simple Twitch Desktop",
+        title: "Twitch Desktop",
         autoHideMenuBar: true,
         webPreferences: {
             nodeIntegration: false,
